@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T15:45:05.175Z" agent="5.0 (Windows)" etag="e6yd9-iTM1RjcVSu4PSJ" version="15.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T16:27:13.090Z" agent="5.0 (Windows)" etag="2FzWl03SLbHc6jH-IMfu" version="15.8.5" type="github">
   <diagram id="HOuDdFkrE7DyKcB-OHdn" name="第 1 页">
-    <mxGraphModel dx="782" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-56" value="" style="endArrow=none;html=1;rounded=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="PgDMdgMAyVAdWWIUPtGt-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="620" as="sourcePoint" />
+            <mxPoint x="319.0000000000001" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PgDMdgMAyVAdWWIUPtGt-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="189" y="409" as="sourcePoint" />
@@ -123,6 +129,33 @@
         </mxCell>
         <mxCell id="PgDMdgMAyVAdWWIUPtGt-45" value="" style="line;strokeWidth=1;html=1;fillColor=#004C99;direction=south;" vertex="1" parent="1">
           <mxGeometry x="435" y="399" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-49" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=0;fillWeight=2;hachureGap=8;fillColor=#004C99;fillStyle=dots;sketch=1;dashed=1;dashPattern=1 4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="81" y="504" width="120" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-51" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="150" y="481" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-52" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="201" y="579" width="118" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-53" value="" style="endArrow=oval;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;startArrow=none;" edge="1" parent="1" source="PgDMdgMAyVAdWWIUPtGt-55" target="PgDMdgMAyVAdWWIUPtGt-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="620" as="sourcePoint" />
+            <mxPoint x="315" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-55" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="300" y="599" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-57" value="&lt;b&gt;D&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="597" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-58" value="DB(p,D)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="281" y="487" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgDMdgMAyVAdWWIUPtGt-59" value="&lt;b&gt;O&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="587" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
