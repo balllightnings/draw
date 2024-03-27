@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T00:54:52.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="7TlyFxgDYV79g0MPwqGo" version="24.0.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-27T00:55:40.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="KVdQp7DaenPKqM0s8XUF" version="24.0.7" type="github" pages="5">
   <diagram name="第 1 页" id="bq8Kn4M6z7i4zApQ9tgd">
     <mxGraphModel dx="2816" dy="2609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1334,7 +1334,7 @@
         <mxCell id="QugLn6b4nGFeCBaK7LXT-2" value="实时监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
           <mxGeometry x="5" y="50" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-3" value="异常检测模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-3" value="异常检测模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QugLn6b4nGFeCBaK7LXT-6" value="异常识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
@@ -1352,7 +1352,7 @@
         <mxCell id="QugLn6b4nGFeCBaK7LXT-13" value="运行状态可视化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
           <mxGeometry x="5" y="50" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-14" value="可视化模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-14" value="可视化模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QugLn6b4nGFeCBaK7LXT-15" value="预警地点可视化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
@@ -1370,7 +1370,7 @@
         <mxCell id="QugLn6b4nGFeCBaK7LXT-31" value="历史数据查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
           <mxGeometry x="5" y="50" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-32" value="根因分析模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-32" value="根因分析模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QugLn6b4nGFeCBaK7LXT-33" value="根因分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
