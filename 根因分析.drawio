@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T00:47:33.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="5ELJKjhV2iyAMU7jg8Xs" version="24.0.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-27T00:53:11.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="FJxnm1kAbbLpxKN5Lu22" version="24.0.7" type="github" pages="5">
   <diagram name="第 1 页" id="bq8Kn4M6z7i4zApQ9tgd">
     <mxGraphModel dx="2816" dy="2609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1318,11 +1318,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XBHOCCbIRntU7i-caVmY" name="第 5 页">
-    <mxGraphModel dx="1136" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-1" value="&lt;a name=&quot;_Hlk160998503&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:&lt;br/&gt;18.0pt;font-family:黑体;mso-bidi-font-family:黑体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;多维时间序列无监督异常检测与根因分析原型系统&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QugLn6b4nGFeCBaK7LXT-10" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -1331,16 +1331,16 @@
         <mxCell id="QugLn6b4nGFeCBaK7LXT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
           <mxGeometry y="2" width="140" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-2" value="实时监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
           <mxGeometry x="5" y="50" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-3" value="异常检测模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-6" value="异常识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
           <mxGeometry x="5" y="98.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-7" value="预警生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-10">
           <mxGeometry x="5" y="150" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QugLn6b4nGFeCBaK7LXT-11" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -1349,16 +1349,16 @@
         <mxCell id="QugLn6b4nGFeCBaK7LXT-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
           <mxGeometry y="2" width="140" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-13" value="运行状态可视化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
           <mxGeometry x="5" y="50" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-14" value="可视化模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-15" value="预警地点可视化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
           <mxGeometry x="5" y="98.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-16" value="统计信息可视化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-11">
           <mxGeometry x="5" y="150" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QugLn6b4nGFeCBaK7LXT-29" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -1367,17 +1367,42 @@
         <mxCell id="QugLn6b4nGFeCBaK7LXT-30" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
           <mxGeometry y="2" width="140" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-31" value="历史数据查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
           <mxGeometry x="5" y="50" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-32" value="根因分析模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-33" value="根因分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
           <mxGeometry x="5" y="98.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QugLn6b4nGFeCBaK7LXT-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-34" value="案例报告生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QugLn6b4nGFeCBaK7LXT-29">
           <mxGeometry x="5" y="150" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QugLn6b4nGFeCBaK7LXT-3" target="QugLn6b4nGFeCBaK7LXT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="230" />
+              <mxPoint x="530" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QugLn6b4nGFeCBaK7LXT-14" target="QugLn6b4nGFeCBaK7LXT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QugLn6b4nGFeCBaK7LXT-32" target="QugLn6b4nGFeCBaK7LXT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="230" />
+              <mxPoint x="530" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="QugLn6b4nGFeCBaK7LXT-14" target="QugLn6b4nGFeCBaK7LXT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QugLn6b4nGFeCBaK7LXT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="QugLn6b4nGFeCBaK7LXT-14" target="QugLn6b4nGFeCBaK7LXT-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
