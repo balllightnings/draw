@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T17:19:12.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="CwoSOwDntd_nrtyO6lxq" version="24.0.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-28T17:22:53.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="rigBrhmiqnkXKOAplmZs" version="24.0.7" type="github" pages="8">
   <diagram name="第 1 页" id="bq8Kn4M6z7i4zApQ9tgd">
     <mxGraphModel dx="2816" dy="2609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1583,7 +1583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o16PcRVx4GN8nsy_xKNq" name="第 8 页">
-    <mxGraphModel dx="2305" dy="2313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2542" dy="2450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1685,6 +1685,24 @@
         </mxCell>
         <mxCell id="MUJcUOTVn4JinAijhLgN-3" value="&lt;b&gt;3号位置&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=dots;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-1094" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MUJcUOTVn4JinAijhLgN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1069" y="-1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUJcUOTVn4JinAijhLgN-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1060.25" y="-1000" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MUJcUOTVn4JinAijhLgN-6" value="&lt;b&gt;声波传感器&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=dots;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1037" y="-1000" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MUJcUOTVn4JinAijhLgN-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-1011" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUJcUOTVn4JinAijhLgN-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-881.25" y="-1001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MUJcUOTVn4JinAijhLgN-9" value="&lt;b&gt;电磁传感器&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=dots;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-858" y="-1001" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
