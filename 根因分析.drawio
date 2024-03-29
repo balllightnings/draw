@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T01:17:51.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="TCH2D43hvbKmx-ajDavM" version="24.0.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T01:23:07.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Rf1GEsIvRWMm0Ib7O-cf" version="24.0.7" type="github" pages="8">
   <diagram name="第 1 页" id="bq8Kn4M6z7i4zApQ9tgd">
     <mxGraphModel dx="2816" dy="2609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1583,7 +1583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o16PcRVx4GN8nsy_xKNq" name="第 8 页">
-    <mxGraphModel dx="2110" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2816" dy="2609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1681,31 +1681,31 @@
           <mxGeometry x="-750" y="-1094" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUJcUOTVn4JinAijhLgN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1096" y="-1010" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1087" y="-1010" width="114" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MUJcUOTVn4JinAijhLgN-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-1087.25" y="-1000" width="20" height="20" as="geometry" />
+          <mxGeometry x="-1078.25" y="-1000" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUJcUOTVn4JinAijhLgN-6" value="&lt;b&gt;声波传感器&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=dots;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1064" y="-1000" width="75" height="20" as="geometry" />
+          <mxGeometry x="-1055" y="-1000" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUJcUOTVn4JinAijhLgN-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-954" y="-1011" width="120" height="40" as="geometry" />
+          <mxGeometry x="-952" y="-1011" width="114" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MUJcUOTVn4JinAijhLgN-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-945.25" y="-1001" width="20" height="20" as="geometry" />
+          <mxGeometry x="-943.25" y="-1001" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUJcUOTVn4JinAijhLgN-9" value="&lt;b&gt;电磁传感器&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=dots;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-922" y="-1001" width="75" height="20" as="geometry" />
+          <mxGeometry x="-920" y="-1001" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vT1IaA_9_rwg6M6ZwaKX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-812" y="-1011" width="90" height="40" as="geometry" />
+          <mxGeometry x="-817" y="-1011" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vT1IaA_9_rwg6M6ZwaKX-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-803.25" y="-1001" width="20" height="20" as="geometry" />
+          <mxGeometry x="-808.25" y="-1001" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vT1IaA_9_rwg6M6ZwaKX-4" value="&lt;b&gt;根因集&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=dots;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-795.5" y="-1001" width="75" height="20" as="geometry" />
+          <mxGeometry x="-800.5" y="-1001" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
